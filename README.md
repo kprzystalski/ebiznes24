@@ -12,10 +12,14 @@ Należy stworzyć obraz Dockerowy  na bazie debianowej dystrybuji (bez zainstalo
 
 5.0 dodać konfigurację docker-compose
 
+Studia dzienne:
 
 Termin gr. 1: 20.03 
+
 Termin gr. 2: 18.03
 
+
+Studia zaoczne: 7.04
 
 **Zadanie 2 Scala**
 
@@ -33,6 +37,10 @@ Należy stworzyć aplikację na frameworku Play w Scali 2.
 
 Kontrolery mogą bazować na listach zamiast baz danych. CRUD: show all, show by id (get), update (put), delete (delete), add (post).
 
+Studia dzienne:
 
 Termin gr: 1: 25.03
+
 Termin gr. 2: 27.03 
+
+Studia zaoczne: 7.04
