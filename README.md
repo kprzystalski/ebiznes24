@@ -44,3 +44,22 @@ Termin gr: 1: 25.03
 Termin gr. 2: 27.03 
 
 Studia zaoczne: 7.04
+
+
+**Zadanie 3 Kotlin**
+
+
+3.0 Należy stworzyć aplikację kliencką w Kotlinie we frameworku Ktor, która pozwala na przesyłanie wiadomości na platformę Discord
+
+3.5 Aplikacja jest w stanie odbierać wiadomości użytkowników z platformy Discord skierowane do aplikacji (bota)
+
+4.0 Zwróci listę kategorii na określone żądanie użytkownika
+
+4.5 Zwróci listę produktów wg żądanej kategorii
+
+5.0 Aplikacja obsłuży dodatkowo jedną z platform: Slack, Messenfer, Webex, Skype, Discrod
+
+Studia dzienne:
+
+Termin gr.1: 1.04
+Termin gr.2: 3.04
