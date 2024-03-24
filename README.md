@@ -65,7 +65,7 @@ Termin gr.1: 1.04
 
 Termin gr.2: 3.04
 
-Studia zaoczne: 14.04
+Studia zaoczne: 21.04
 
 **Zadanie 4 Go**
 
@@ -86,7 +86,7 @@ Termin gr.1:
 
 Termin gr.2:
 
-Studia zaoczne: 14.04
+Studia zaoczne: 21.04
 
 
 **Zadanie 5 Frontend**
