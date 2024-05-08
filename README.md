@@ -61,9 +61,9 @@ Studia zaoczne: 7.04
 
 Studia dzienne:
 
-Termin gr.1: 1.04
+Termin gr.1: 8.04
 
-Termin gr.2: 3.04
+Termin gr.2: 11.04
 
 Studia zaoczne: 21.04
 
@@ -82,9 +82,9 @@ Studia zaoczne: 21.04
 
 Studia dzienne:
 
-Termin gr.1: 
+Termin gr.1: 15.04
 
-Termin gr.2:
+Termin gr.2: 18.04
 
 Studia zaoczne: 21.04
 
@@ -106,9 +106,9 @@ Należy stworzyć aplikację kliencką wykorzystując bibliotekę React.js. W ra
 
 Studia dzienne:
 
-Termin gr.1:
+Termin gr.1: 24.04
 
-Termin gr.2:
+Termin gr.2: 21.04
 
 Studia zaoczne:
 
@@ -135,9 +135,9 @@ Testy mają w sumie zawierać minimum 50 asercji (3.5). Mają również uruchami
 
 Studian dzienne:
 
-Termin gr.1:
+Termin gr.1: 1.05
 
-Termin gr.2:
+Termin gr.2: 3.05
 
 Studia zaoczne:
 
@@ -163,7 +163,7 @@ https://scalameta.org/scalafmt/docs/installation.html
 
 Studia dzienne:
 
-Termin gr. 1: 
+Termin gr. 1: 15.05
 
 Termin gr. 2: 6.05
 
@@ -188,9 +188,9 @@ Prawidłowa komunikacja: react-sewer-dostawca-serwer(via return uri)-react.
 
 Termin studia dzienne:
 
-gr. 1:
+gr. 1: 21.05
 
-gr. 2:
+gr. 2: 11.05
 
 Termin studia zaoczne: 
 
@@ -213,6 +213,6 @@ Termin studia dzienne
 
 gr. 1:
 
-gr. 2:
+gr. 2: 18.05
 
 Termin studia zaoczne: 
